@@ -21,4 +21,9 @@ html {
   tr {
     background-color: #f59494;
   }
-  {h1}
+  h1 {
+    color: red;
+  }
+ ul {
+   color: blue;
+ }
