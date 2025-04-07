@@ -24,6 +24,9 @@ html {
   h1 {
     color: red;
   }
+  h3 {
+    color: black
+  }
  ul {
    color: blue;
  }
