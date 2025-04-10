@@ -30,3 +30,8 @@ h3 {
  ul {
    color: blue;
  }
+#receitas {
+    background-color: blueviolet;
+    border: #62c370;
+    padding: 20;
+}
