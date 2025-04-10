@@ -16,22 +16,27 @@ h3 {
     text-align: center;
   }
   th {
+    font-family: comic sans-serif;
     background-color: #62c370;
   }
     td {
+      font-family: comic sans-serif;
       background-color: #00eeff;
     }
   tr {
+    font-family: comic sans-serif;
     background-color: #f59494;
   }
   h1 {
+    font-family: comic sans-serif;
     color: red;
   }
  ul {
+  font-family: comic sans-serif;
    color: blue;
  }
 #receitas {
     background-color: blueviolet;
-    border: #62c370;
-    padding: 20;
+    border: #d27e49c6;
+    padding: 30px;
 }
