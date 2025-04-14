@@ -40,3 +40,7 @@ h3 {
     border: 20px #000000c6;
     padding: 30px;
 }
+#linha {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+}
