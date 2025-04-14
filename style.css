@@ -16,16 +16,14 @@ h3 {
     text-align: center;
   }
   th {
-    font-family: comic sans-serif;
     background-color: #bfdf4c;
   }
-    td {
-      font-family: comic sans-serif;
+  td {
       background-color: #c0ca36;
     }
-  tr {
-    font-family: comic sans-serif;
-    background-color: #f59494;
+  a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: chocolate;
   }
   h1 {
     font-family: comic sans-serif;
