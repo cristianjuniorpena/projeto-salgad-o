@@ -7,6 +7,10 @@ table {
     height: 100%;
     border-collapse: collapse;
 }
+tr {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: antiquewhite;
+}
 td, th {
     border: 1px solid black;
     padding: 8px;
